@@ -1,3 +1,7 @@
+
+- what is for lr
+- need add fc or color net?
+
 <table>
    <tr>
       <td>bsize</td>
