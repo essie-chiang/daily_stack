@@ -18,6 +18,12 @@
 - [ ] worker lifecycle
 - [x] maintain an open-source env for debug
 
+- Markdown
+  * https://github.com/baixing/FE-Blog/issues/6
+
+
+
+
   [1]: https://blog.codeship.com/using-docker-push-to-publish-images-to-dockerhub/
   [2]: https://www.zybuluo.com/mdeditor#952601
 
