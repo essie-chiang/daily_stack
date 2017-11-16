@@ -4,10 +4,12 @@
 ---
 > * always on the top, only MUST-HAVE
 
- 1. Deep Learning
+ 1. Need work-on 
+
+ * Deep Learning
 - [ ] refind code for influence
 - [ ] add fc or other net
-- [ ] find a good learning rate
+- [x] find a good learning rate -- turnout not relavent
 - [x] add iou loss for classify
 
  2. Need summary
@@ -17,3 +19,4 @@
 
 - tf.clip_by_value https://stackoverflow.com/questions/46545986/how-to-use-tf-clip-by-value-on-sliced-tensor-in-tensorflow
 - softmax https://www.tensorflow.org/get_started/mnist/beginners
+- one good book http://neuralnetworksanddeeplearning.com/chap6.html
