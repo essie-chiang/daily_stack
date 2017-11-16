@@ -8,7 +8,7 @@
 
  * Deep Learning
 - [ ] refind code for influence
-- [ ] add fc or other net
+- [x] add fc or other net
 - [x] find a good learning rate -- turnout not relavent
 - [x] add iou loss for classify
 
