@@ -20,12 +20,11 @@
 - [ ] move code and build to commit to git
 - [ ] branch management 
 
+https://github.com/thoughtbot/guides/tree/master/protocol/git
+http://www.cnblogs.com/deepnighttwo/archive/2011/06/18/2084438.html
+
  * common network programming 
 - [ ] agent case pick up
 - [ ] linux/unix 
 - [ ] envp project
 
-
-- tf.clip_by_value https://stackoverflow.com/questions/46545986/how-to-use-tf-clip-by-value-on-sliced-tensor-in-tensorflow
-- softmax https://www.tensorflow.org/get_started/mnist/beginners
-- one good book http://neuralnetworksanddeeplearning.com/chap6.html
